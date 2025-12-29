@@ -1,0 +1,58 @@
+https://claude.ai/public/artifacts/11d60e9f-19b6-4fe5-ba53-57585a73b797
+https://claude.ai/public/artifacts/9531e352-e18d-41cc-a272-92287dc5b34c
+
+project/
+├── index.html (فایل اصلی کاتالوگ)
+│
+├── images/
+│   ├── oval-with-tap.jpg
+│   ├── rectangular-with-tap.jpg
+│   ├── square-with-tap.jpg
+│   ├── circle-with-tap.jpg
+│   ├── venus-circle-with-tap.jpg
+│   ├── oval-gsf.jpg
+│   ├── rectangular-gsf.jpg
+│   ├── circle-gsf-36.jpg
+│   ├── circle-gsf-40.jpg
+│   ├── square-no-tap.jpg
+│   ├── mg-50.jpg
+│   ├── mg-60.jpg
+│   ├── mg-70.jpg
+│   ├── rg.jpg
+│   ├── maya.jpg
+│   ├── mitra.jpg
+│   ├── boat.jpg
+│   ├── aso-square.jpg
+│   ├── aso-triangle.jpg
+│   ├── gatria-saturn-jupiter.jpg
+│   ├── gatria-wall-hung.jpg
+│   ├── dkm-50.jpg
+│   ├── gatria-floor-toilet.jpg
+│   │
+│   └── gallery/
+│       ├── oval-with-tap.html
+│       ├── rectangular-with-tap.html
+│       ├── square-with-tap.html
+│       ├── circle-with-tap.html
+│       ├── venus-circle-with-tap.html
+│       ├── oval-gsf.html
+│       ├── rectangular-gsf.html
+│       ├── circle-gsf-36.html
+│       ├── circle-gsf-40.html
+│       ├── square-no-tap.html
+│       ├── mg-50.html
+│       ├── mg-60.html
+│       ├── mg-70.html
+│       ├── rg.html
+│       ├── maya.html
+│       ├── mitra.html
+│       ├── boat.html
+│       ├── aso-square.html
+│       ├── aso-triangle.html
+│       ├── gatria-saturn-jupiter.html
+│       ├── gatria-wall-hung.html
+│       ├── dkm-50.html
+│       └── gatria-floor-toilet.html
+│
+└── product/
+    └── designs-all.html
